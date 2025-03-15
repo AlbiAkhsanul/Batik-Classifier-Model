@@ -1,6 +1,6 @@
 # 🧠 **Batik Classifier Model** 🧠  
 
-This project features 3 models to classify batik, one trained with GLCM and CNN (pararel), one only with GLCM, and one only with CNN.
+This project features 3 models to classify batik, one trained with GLCM and CNN, one only with GLCM, and one only with CNN.
 
 ---
 
