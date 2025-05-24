@@ -1,3 +1,4 @@
 /output
 .env
 prefix.py
+/Models/augmented_images
