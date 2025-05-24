@@ -2,3 +2,5 @@
 .env
 prefix.py
 /Models/augmented_images
+/Models/best_model_hybrid.pth
+/Models/best_model_cnn.pth
